@@ -1,0 +1,59 @@
+.pro-pic{
+    width: 70%;
+    margin-top: 50px;
+}
+.sec1{
+    margin-top: 160px;
+    margin-left: 150px
+}
+
+.rifat{
+    color: purple;
+    margin-bottom: 20px;
+}
+.hire{
+    border: none;
+    padding: 10px 25px;
+    margin-top: 15px;
+    background-color: purple;
+    color: #fff;
+}
+.cover-pic{
+    width: 70%;
+    margin-left: 100px
+}
+.sec2{
+    margin-top: 200px;
+    margin-left: 90px;
+    margin-right: 80px;
+}
+.jayed{
+    margin-top: 20px;
+    
+}
+.work{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.last img{
+    padding: 10px;
+}
+.testimonial{
+    text-align: center;
+    margin: 100px;
+    
+}
+
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+}
+.box{
+    text-align: center;
+    margin-bottom: 100px;
+    
+  
+}
+footer{
+    text-align: center;
+   
+}
