@@ -57,3 +57,8 @@ footer{
     text-align: center;
    
 }
+
+.btn {
+    width: 50%;
+    background-color: purple;
+}
