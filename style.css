@@ -36,9 +36,8 @@
     text-align: center;
     margin-bottom: 100px;
 }
-.last img{
-    padding: 10px;
-}
+
+
 .testimonial{
     text-align: center;
     margin: 100px;
@@ -47,6 +46,7 @@
 
 .latest-work{
     background-image: url(images/latest-work-bg.png);
+    width: 100%;
 }
 .box{
     text-align: center;
@@ -68,3 +68,4 @@ footer{
     width: 50%;
    
 }
+
